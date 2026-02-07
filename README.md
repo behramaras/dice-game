@@ -1,4 +1,3 @@
-```
 # 🎲 Dice Game
 
 A two-player interactive dice game featuring animated 3D dice and random roll logic using modern web technologies.
@@ -20,7 +19,6 @@ HTML5, CSS3, JavaScript (ES6), Bootstrap 5, Google Fonts, CSS Animations, CSS 3D
 ## Project Structure
 
 ```
-
 ├── index.html
 ├── style.css
 ├── javascript.js
@@ -35,4 +33,3 @@ HTML5, CSS3, JavaScript (ES6), Bootstrap 5, Google Fonts, CSS Animations, CSS 3D
 3. Click **ROLL DICE** to roll for each player
 
 Enjoy rolling the dice! 🎲
-```
